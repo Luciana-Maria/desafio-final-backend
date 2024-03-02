@@ -21,7 +21,7 @@
 
 O projeto Food Explorer consiste no desafio final do programa Explorer da Rocketseat. Trata-se de uma aplicação de cardápio digital para um restaurante fictício.
 
-O back-end do projeto, que lida com a lógica e o armazenamento dos dados, está disponível neste repositório. Já o front-end, responsável pela interface do usuário, está disponível [aqui]().
+O back-end do projeto, que lida com a lógica e o armazenamento dos dados, está disponível neste repositório. Já o front-end, responsável pela interface do usuário, está disponível [aqui](https://github.com/Luciana-Maria/desafio-final-frontend).
 
 <h2 id="structure">📌 ESTRUTURA</h2>
 
@@ -40,23 +40,23 @@ O projeto conta com as seguintes tabelas:
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
--``Express.js:`` Framework popular para Node.js que simplifica o desenvolvimento de aplicações e APIs web.
+-<strong>Express.js:</strong>Framework popular para Node.js que simplifica o desenvolvimento de aplicações e APIs web.
 
--``express-async-errors:`` Middleware para lidar com erros assíncronos em aplicações Express.js.
+-<strong>express-async-errors:</strong>Middleware para lidar com erros assíncronos em aplicações Express.js.
 
--``JSON Web Token (JWT):`` Padrão para criar tokens de acesso baseados em JSON, comumente usado para autenticação e autorização.
+-<strong>JSON Web Token (JWT):</strong> Padrão para criar tokens de acesso baseados em JSON, comumente usado para autenticação e autorização.
 
--``Knex.js:`` Construtor de consultas SQL para Node.js que facilita interações com bancos de dados e migrações.
+-<strong>Knex.js:</strong>Construtor de consultas SQL para Node.js que facilita interações com bancos de dados e migrações.
 
--``Node.js:`` Ambiente de execução JavaScript fora de um navegador, frequentemente usado para desenvolvimento server-side.
+-<strong>Node.js:</strong>Ambiente de execução JavaScript fora de um navegador, frequentemente usado para desenvolvimento server-side.
 
--``Multer:`` Middleware para manipulação de dados multipart/form-data, frequentemente usado para uploads de arquivos.
+-<strong>Multer:</strong> Middleware para manipulação de dados multipart/form-data, frequentemente usado para uploads de arquivos.
 
--``PM2:`` Gerenciador de processos para aplicações Node.js, usado para monitorar, escalar e manter processos Node.js.
+-<strong>PM2:</strong> Gerenciador de processos para aplicações Node.js, usado para monitorar, escalar e manter processos Node.js.
 
--``SQLite:`` Motor de banco de dados relacional leve baseado em arquivo.
+-<strong>SQLite:</strong> Motor de banco de dados relacional leve baseado em arquivo.
 
--``SQLite3:`` Módulo Node.js que fornece uma interface para interagir com bancos de dados SQLite usando JavaScript.
+-<strong>SQLite3:</strong> Módulo Node.js que fornece uma interface para interagir com bancos de dados SQLite usando JavaScript.
 
 <h2 id="usage">💡 UTILIZAÇÃO</h2>
 
@@ -75,7 +75,7 @@ $ git clone
 2. Acesse a pasta do projeto:
 
 ```
-$ cd food-explorer-backend
+$ cd desafio-final-backend
 ```
 
 3. Instale as dependências:
@@ -110,5 +110,4 @@ Este projeto está sob a licença MIT.
 
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/luciana-santos-maria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
- 
 </div>
